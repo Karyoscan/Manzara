@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Manzara/static/css/main.3cead6c2.css",
+    "main.js": "/Manzara/static/js/main.ad711b0b.js",
+    "index.html": "/Manzara/index.html",
+    "main.3cead6c2.css.map": "/Manzara/static/css/main.3cead6c2.css.map",
+    "main.ad711b0b.js.map": "/Manzara/static/js/main.ad711b0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cead6c2.css",
+    "static/js/main.ad711b0b.js"
+  ]
+}
